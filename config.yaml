@@ -1,0 +1,7 @@
+package_name: "com.google.guava:guava:33.4.0-jre"
+repository_url: "https://repo.maven.apache.org/maven2"
+output_file: "output/guava.png"
+filter: ""
+max_packages: 200
+log_requests: true
+log_pom: true
